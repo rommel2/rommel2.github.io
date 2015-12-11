@@ -52,7 +52,9 @@ article{
     border-radius:10px;
     margin-bottom:10px;
 }
-
+html{
+    background-color:#FF0000;
+}
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
@@ -93,7 +95,7 @@ footer{
 }
 
 .jumbotron{
-  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIkm486X-6LJUtwMCnLgaqYUkF6omuPT_QCJbFfNHLel-exbXY') no-repeat center;
+  background: url('http://2.bp.blogspot.com/-Ym-Xr5BNefE/UWouBaMDtkI/AAAAAAAAJeE/03RV5re_bXc/s1600/cool+blue+background+wallpapers++1.jpg') no-repeat center;
   background-size: cover;
 }
 
