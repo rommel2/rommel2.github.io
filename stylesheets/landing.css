@@ -95,8 +95,11 @@ footer{
 }
 
 .jumbotron{
-  background: url('http://2.bp.blogspot.com/-Ym-Xr5BNefE/UWouBaMDtkI/AAAAAAAAJeE/03RV5re_bXc/s1600/cool+blue+background+wallpapers++1.jpg') no-repeat center;
+  background: url('https://s-media-cache-ak0.pinimg.com/originals/f8/01/7f/f8017f78623d6f689c75e69d80fcb10b.jpg') no-repeat center;
   background-size: cover;
+}
+body{
+    background-color:#121012;
 }
 
 .portrait_name{
