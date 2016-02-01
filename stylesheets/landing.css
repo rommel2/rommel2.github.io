@@ -104,7 +104,8 @@ body{
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+    background:url;
 }
-p{
+ p{
     color:white;
 }
