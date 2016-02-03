@@ -97,9 +97,11 @@ footer{
 
 .jumbotron{
   background-size: cover;
+  background-image:url('http://i1204.photobucket.com/albums/bb415/rroyster1/Mobile%20Uploads/63C76EB0-9354-40CF-B9E4-0E96712C13B8_zpszshksha8.jpg')
 }
 body{
-    background-color:#121012;
+    background-color:#121012
+    ;
 }
 
 .portrait_name{
@@ -107,5 +109,11 @@ body{
     background:url;
 }
  p{
+    color:#00D3FF;
+}
+h3{
     color:white;
+}
+h2{
+    
 }
