@@ -23,6 +23,7 @@ HEADER
     margin-bottom:10px;
     height:500px;
     padding-top:50px;
+    background:url('http://i1204.photobucket.com/albums/bb415/rroyster1/Mobile%20Uploads/38AE7722-5F77-469D-A04B-0472EFB3D6F7_zpspjvrkd5w.jpg');
 }
 
 .portrait_name{
@@ -95,13 +96,13 @@ footer{
     background:#eee;
 }
 
-.jumbotron{
-  background-size: cover;
-  background-image:url('http://i1204.photobucket.com/albums/bb415/rroyster1/Mobile%20Uploads/63C76EB0-9354-40CF-B9E4-0E96712C13B8_zpszshksha8.jpg')
+.thumbnail{
+  background-color:black;
+  background-size:cover;
+
 }
 body{
-    background-color:#121012
-    ;
+    background-color:#121012;
 }
 
 .portrait_name{
@@ -114,6 +115,7 @@ body{
 h3{
     color:white;
 }
-h2{
-    
+footer{
+    background-color:black;
 }
+
